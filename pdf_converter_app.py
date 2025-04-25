@@ -1,4 +1,3 @@
-# Forçando rebuild v2 - 25/Abril
 import streamlit as st
 import pandas as pd
 import pdfplumber  # Para ler o PDF
