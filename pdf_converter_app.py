@@ -1,3 +1,4 @@
+# Este é um comentário para forçar o rebuild
 import streamlit as st
 import pandas as pd
 import pdfplumber  # Para ler o PDF
